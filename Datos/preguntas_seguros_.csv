@@ -1,0 +1,31 @@
+tipo,pregunta,opcion1,opcion2,opcion3,opcion4,correcta
+multiple,¿Qué es una póliza de seguro?,Contrato entre asegurado y aseguradora,Recibo de pago,Cuenta bancaria,,1
+multiple,¿Qué es la prima de un seguro?,Pago que realiza el asegurado,Multa por accidente,Tipo de cobertura,,1
+multiple,¿Qué es el deducible?,Cantidad que paga el asegurado antes de recibir indemnización,Impuesto obligatorio,Ganancia de la aseguradora,,1
+multiple,¿Quién es el asegurado?,Persona protegida por el seguro,Empleado de la aseguradora,Agente de ventas,,1
+multiple,¿Qué es una indemnización?,Pago por un daño cubierto,Una multa,Un préstamo,,1
+multiple,¿Qué institución ofrece seguros?,Aseguradora,Hospital,Escuela,,1
+multiple,¿Cuál es el objetivo principal de un seguro?,Reducir riesgos económicos,Aumentar impuestos,Otorgar becas,,1
+multiple,¿Qué es una cobertura?,Protección que ofrece el seguro,Nombre del cliente,Recibo de pago,,1
+multiple,¿Qué ocurre si no se paga la prima?,Puede cancelarse la cobertura,Se duplica el seguro,No pasa nada,,1
+multiple,¿Qué es un siniestro?,Evento cubierto por el seguro,Tipo de póliza,Forma de pago,,1
+multiple,¿Qué seguro protege un automóvil?,Seguro de auto,Seguro de vida,Seguro escolar,,1
+multiple,¿Qué seguro protege a una persona después de fallecer?,Seguro de vida,Seguro dental,Seguro vehicular,,1
+multiple,¿Qué documento contiene las condiciones del seguro?,Póliza,Factura,Credencial,,1
+multiple,¿Quién recibe el dinero en un seguro de vida?,Beneficiario,Vendedor,Mecánico,,1
+multiple,¿Qué es el riesgo en seguros?,Posibilidad de pérdida o daño,Ganancia asegurada,Forma de pago,,1
+multiple,¿Qué seguro ayuda a cubrir gastos médicos?,Seguro de gastos médicos,Seguro de auto,Seguro de hogar,,1
+multiple,¿Qué hace una aseguradora al ocurrir un siniestro cubierto?,Indemniza al asegurado,Cancela la póliza,Incrementa impuestos,,1
+multiple,¿Qué se busca al contratar un seguro?,Protección financiera,Obtener préstamos,Evadir impuestos,,1
+multiple,¿Cuál es un ejemplo de bien asegurable?,Automóvil,Examen escolar,Tarea,,1
+multiple,¿Qué sucede cuando una póliza vence?,Termina la cobertura,Se vuelve gratuita,Se convierte en préstamo,,1
+seleccion,¿Cuáles son tipos de seguros?,Vida,Automóvil,Videojuegos,Gastos médicos,1;2
+seleccion,¿Qué elementos aparecen en una póliza?,Coberturas,Datos del asegurado,Receta médica,Horario escolar,1;2
+seleccion,¿Cuáles son funciones de una aseguradora?,Evaluar riesgos,Pagar indemnizaciones,Vender comida,Impartir clases,1;2
+seleccion,¿Qué puede cubrir un seguro de hogar?,Incendios,Robos,Calificaciones bajas,Viajes escolares,1;2
+seleccion,¿Qué factores influyen en el costo de una prima?,Riesgo,Edad del asegurado,Color favorito,Equipo deportivo,1;2
+seleccion,¿Qué acciones pueden requerirse tras un siniestro?,Reportarlo,Presentar documentación,Comprar otro seguro inmediatamente,Cambiar de banco,1;2
+seleccion,¿Cuáles son beneficios de tener seguro?,Protección económica,Reducción del impacto financiero,Garantizar ganancias,Eliminar impuestos,1;2
+seleccion,¿Qué seguros protegen a personas?,Vida,Gastos médicos,Seguro de mercancías,Seguro de edificios industriales,1;2
+seleccion,¿Qué datos suele proporcionar el asegurado?,Nombre,Información personal básica,Resultados deportivos,Contraseñas bancarias,1;2
+seleccion,¿Qué puede provocar la cancelación de una póliza?,Falta de pago,Fraude,Comprar un automóvil,Obtener buenas calificaciones,1;2
